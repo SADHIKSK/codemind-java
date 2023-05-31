@@ -1,5 +1,5 @@
 import java.util.*;
-class Love{
+public class Love{
     public static int rev(int n){
         int re = 0;
         while(n!=0){
